@@ -1,0 +1,15 @@
+{
+        "seed": 42,
+        "n_cnn_layers": 3,
+        "n_rnn_layers": 5,
+        "rnn_dim": 512,
+        "n_class": 13,
+        "n_feats": 128,
+        "stride": 2,
+        "dropout": 0.1,
+        "learning_rate": 5e-4,
+        "batch_size": 40,
+        "epochs": 10,
+        "data_path": "numbers/",
+        "val_fraction": 0.2
+}

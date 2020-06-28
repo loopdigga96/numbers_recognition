@@ -1,0 +1,6 @@
+torch==1.5
+torchaudio
+pandas
+sklearn
+tensorboard
+tensorboardX
